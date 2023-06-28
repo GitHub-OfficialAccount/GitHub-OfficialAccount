@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Yi
 
+### Main projects:
+  - [YourGuide](https://github.com/leezhongjun/YourGuide): Audio Guide for the visually impaired that uses computer vision
+
+### Projects just for fun
+  - [aiweb](https://github.com/GitHub-OfficialAccount/aiweb): Website for anyone to learn and build their own AI model (for object classification)
+  - [Yic_UrGreatGrandDaddy](https://github.com/GitHub-OfficialAccount/Yic_UrGreatGrandDaddy): A Pypi library that sends messages on Whatsapp
 <!--
 **GitHub-OfficialAccount/GitHub-OfficialAccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
