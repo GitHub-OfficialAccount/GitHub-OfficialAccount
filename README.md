@@ -5,7 +5,7 @@
 
 ### Projects just for fun
   - [aiweb](https://github.com/GitHub-OfficialAccount/aiweb): Website for anyone to learn and build their own AI model (for object classification)
-  - [Yic_UrGreatGrandDaddy(A WhatsApp tool)](https://github.com/GitHub-OfficialAccount/Yic_UrGreatGrandDaddy): A Pypi library that sends messages on Whatsapp
+  - [Yic_UrGreatGrandDaddy](https://github.com/GitHub-OfficialAccount/Yic_UrGreatGrandDaddy): A Pypi library that sends messages on Whatsapp
 <!--
 **GitHub-OfficialAccount/GitHub-OfficialAccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
