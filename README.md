@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yichen
 
 ### Main projects:
-  - [YourGuide](https://github.com/leezhongjun/YourGuide): Audio Guide for the visually impaired that uses computer vision
+  - [YourGuide](https://github.com/leezhongjun/YourGuide): Audio Guide for the visually impaired
 
 ### Projects just for fun
   - [aiweb](https://github.com/GitHub-OfficialAccount/aiweb): Website for anyone to learn and build their own AI model (for object classification)
