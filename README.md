@@ -2,6 +2,7 @@
 
 ### Main projects:
   - [YourGuide](https://github.com/leezhongjun/YourGuide): Audio Guide for the visually impaired
+  - [Esslay (beta version)](https://github.com/leezhongjun/Esslay): An essay writing tool for Singapore students
 
 ### Projects just for fun
   - [aiweb](https://github.com/GitHub-OfficialAccount/aiweb): Website for anyone to learn and build their own AI model (for object classification)
