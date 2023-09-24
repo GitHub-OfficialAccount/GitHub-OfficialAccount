@@ -2,9 +2,9 @@
 
 ### Main projects:
   - [YourGuide](https://github.com/leezhongjun/YourGuide): Audio Guide for the visually impaired
-  - [Esslay (beta version)](https://github.com/leezhongjun/Esslay): An essay writing tool for Singapore students
 
-### Projects just for fun
+### Toy projects
+  - [Esslay (beta version)](https://github.com/leezhongjun/Esslay): An essay writing tool for Singapore students
   - [aiweb](https://github.com/GitHub-OfficialAccount/aiweb): Website for anyone to learn and build their own AI model (for object classification)
   - [Yic_UrGreatGrandDaddy](https://github.com/GitHub-OfficialAccount/Yic_UrGreatGrandDaddy): A Pypi library that sends messages on Whatsapp
 
