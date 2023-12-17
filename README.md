@@ -1,12 +1,13 @@
 ### Hi there 👋 I'm Yichen
 
 ### Main projects:
-  - [YourGuide](https://github.com/leezhongjun/YourGuide): Audio Guide for the visually impaired
+  - [YourGuide](https://github.com/leezhongjun/YourGuide): Audio Guide for the visually impaired &emsp; (**Winner**, National AI Student Challenge 2022, AI Singapore)
+  - [CultuRealm](https://github.com/leezhongjun/CultuRealm): Gamified web app for intercultural learning &emsp; (**Sub-Theme Winner**, Splash Awards 2023, Singapore Computer Society)
 
-### Toy projects
-  - [Esslay (beta version)](https://github.com/leezhongjun/Esslay): An essay writing tool for Singapore students
+### Other projects
+  - [Esslay (beta version)](https://github.com/leezhongjun/Esslay): An essay writing tool for Singapore students  &emsp; (**2nd Place**, Cloudhacks 2023)
   - [aiweb](https://github.com/GitHub-OfficialAccount/aiweb): Website for anyone to learn and build their own AI model (for object classification)
-  - [Yic_UrGreatGrandDaddy](https://github.com/GitHub-OfficialAccount/Yic_UrGreatGrandDaddy): A Pypi library that sends messages on Whatsapp
+  - [Yic_UrGreatGrandDaddy](https://github.com/GitHub-OfficialAccount/Yic_UrGreatGrandDaddy): A Pypi library that automates messages on Whatsapp
 
 ### Main Languages and tools
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
