@@ -6,8 +6,7 @@
   - [Esslay (beta version)](https://github.com/leezhongjun/Esslay): An essay writing tool for Singapore students  &emsp; (**2nd Place**, Cloudhacks 2023)
 
 ### Other projects
-  - [aiweb](https://github.com/GitHub-OfficialAccount/aiweb): Website for anyone to learn and build their own AI model (for object classification)
-  - [Yic_UrGreatGrandDaddy](https://github.com/GitHub-OfficialAccount/Yic_UrGreatGrandDaddy): A Pypi library that automates messages on Whatsapp
+  - Check my repositories.
 
 ### Main Languages and tools
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
