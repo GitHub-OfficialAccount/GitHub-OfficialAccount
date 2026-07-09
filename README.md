@@ -3,8 +3,6 @@
 ### Main projects
   - [MLDA BARN 2024](https://github.com/MLDA-NTU/mlda-barn-2024): Model Predictive Control for navigation through complex environments &emsp; (**2nd Place**, ICRA 2024 BARN Challenge, Yokohama, Japan)
   - [YourGuide](https://github.com/leezhongjun/YourGuide): Audio Guide for the visually impaired &emsp; (**Winner**, National AI Student Challenge 2022, AI Singapore, Singapore)
-  - [CultuRealm](https://github.com/leezhongjun/CultuRealm): Gamified web app for intercultural learning &emsp; (**Sub-Theme Winner**, Splash Awards 2023, Singapore Computer Society, Singapore)
-  - [Esslay (beta version)](https://github.com/leezhongjun/Esslay): An essay writing tool for Singapore students  &emsp; (**2nd Place**, Cloudhacks 2023, Singapore)
 
 ### Other projects
   - Check my repositories.
