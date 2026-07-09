@@ -1,11 +1,8 @@
 ### Hi there 👋 I'm Yichen
 
-### Main projects
+### Projects
   - [MLDA BARN 2024](https://github.com/MLDA-NTU/mlda-barn-2024): Model Predictive Control for navigation through complex environments &emsp; (**2nd Place**, ICRA 2024 BARN Challenge, Yokohama, Japan)
   - [YourGuide](https://github.com/leezhongjun/YourGuide): Audio Guide for the visually impaired &emsp; (**Winner**, National AI Student Challenge 2022, AI Singapore, Singapore)
-
-### Other projects
-  - Check my repositories.
 
 ### Main Languages and tools
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
